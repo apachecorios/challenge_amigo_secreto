@@ -94,5 +94,5 @@ Este proyecto es de código abierto y se encuentra bajo la licencia MIT. Puedes 
 
 ## ✉️ Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [tu correo electrónico] o [tu perfil de GitHub].
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [apachecorios@outlook.com] o [apachecorios].
 
